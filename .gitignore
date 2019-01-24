@@ -1,3 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
 algorithmic-practice.iml
+/practice/practice.iml
+practice/src/main/resources/
+practice/target/
